@@ -9,11 +9,11 @@
 </head>
 <body>
     <div class="bg-img">
-        <form action="/action_page.php" class="container">
+        <form method = post action="validate.php" class="container">
           <h1>Login</h1>
       
           <label for="email"><b>StudentID</b></label>
-          <input type="text" placeholder="Enter StudentID" name="email" required>
+          <input type="text" placeholder="Enter StudentID" name="studentid" required>
       
           <label for="psw"><b>Password</b></label>
           <input type="password" placeholder="Enter Password" name="psw" required>

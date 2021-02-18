@@ -1,0 +1,11 @@
+.grid-container .grid-33{
+    padding-left: 50px;
+    background-color: rgb(175, 146, 199);
+}
+
+.grid-blank .grid-65{
+    background-color: burlywood;
+}
+.grid-33>ul{
+    list-style-type:none;
+}
