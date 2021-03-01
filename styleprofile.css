@@ -1,0 +1,62 @@
+.body{
+    background-color: whitesmok;
+    
+}
+
+.heading{
+    padding-left: 50px;
+}
+
+nav>ul{
+    list-style-type: none;
+}
+
+.grid-container .grid-45{
+    padding-left: 50px;
+    background-color:rgb(182, 50, 182);
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width:570px;
+    
+}
+
+.grid-container1 .grid-45{
+    background-color: rgb(182, 50, 182);
+    margin-left: 20px;
+    margin-bottom: 10px;
+
+
+}
+
+    
+
+#center2{
+    border: solid 1px blue;
+    width: 1200px;
+    height: 600px;
+    margin:10px;
+    margin-top: 10px;
+    
+    color: rgb(15, 15, 17);
+    text-align: center;
+    padding: 10px;
+    clear: both;
+}
+.column1{
+    float:center;
+}
+
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.column5{
+    float:left;
+}

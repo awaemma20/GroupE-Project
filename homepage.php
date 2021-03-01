@@ -17,11 +17,11 @@
         <!--NAVIGATION STARTS-->
         <nav>
             <ul>
-                <li><a href="homepage.php">Home</a></li>
+                <li><a href="profilepage.php">Profile</a></li>
                 <li><a href="Join Room.html">Join Room</a></li>
-                <li><a href="Online Learning Tool Tutorial.html">Online Learning Tool</a></li>
-                <li><a href="login.php">Login</a></li>
-            </ul>
+                <li><a href="Online Learning Tool Tutorial.php">Online Learning Tool Tutorial</a></li>
+                
+            </ul> 
         </nav>
         <!--NAIGATION END-->
 
