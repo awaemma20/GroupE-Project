@@ -13,7 +13,7 @@
     <div class="heading">
         <p>
         
-        <h1>WELCOME TO RGUISC </h1>
+        <h1>WELCOME123 TO RGUISC </h1>
         </p>
     </div>
     <main>
