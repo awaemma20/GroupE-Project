@@ -1,0 +1,113 @@
+    body {
+    background-color: rgb(247, 246, 248);
+}
+
+footer {
+    background-color: rgb(209, 177, 238);
+    height: 390px;
+    width: auto;
+}
+
+
+/* NAVIGATION BAR CSS*/
+
+nav>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav>ul>li {
+    float: left;
+}
+
+nav>ul>li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 10px 160px;
+    text-decoration: none;
+    font-size: large;
+}
+
+li a :hover {
+    color: #363636
+}
+
+
+/*body*/
+
+.container {
+    position: relative;
+    max-width: 1500px;
+    /* Maximum width */
+    margin: 0 auto;
+    /* Center it */
+}
+
+.container .content {
+    position: absolute;
+    /* Position the background text */
+    bottom: 0;
+    /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0);
+    /* Fallback color */
+    background: rgba(0, 0, 0, 0.5);
+    /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    /* Grey text */
+    width: 67%;
+    /* Full width */
+    padding: 20px;
+    /* Some padding */
+}
+
+.grid-container .grid-30 {
+    background: rgb(230, 222, 231);
+    padding-left: 15px;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 750px;
+}
+
+.grid-container2 .grid-30 {
+    background: cadetblue;
+    padding: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.grid-container3 .grid-30 {
+    padding: 20px;
+    background: white;
+    margin-top: 10px;
+}
+
+.grid-container3 .trip {
+    background: lightcoral;
+    padding: 20px;
+    margin-top: 10px;
+    height: 270px;
+    width: 430px;
+}
+
+
+/*footer*/
+
+.footerlogo {
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 70px;
+}
+
+.grid-container8 .copyright {
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+/*removing the dots in the unordered list*/
+
+.grid-33>ul {
+    list-style-type: none;
