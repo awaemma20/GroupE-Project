@@ -1,0 +1,10 @@
+h1 {
+  color: black;
+}
+body {
+  background-color: rgb(201, 116, 201);
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  padding-left: 600px;
+}
