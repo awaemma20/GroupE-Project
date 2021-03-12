@@ -40,9 +40,9 @@
                 
                 
                       <label for="fname">First name:</label><br>
-                      <input type="text" id="firstname" name="firstname" maxlength="80" size="50"><br><br>
+                      <input type="text" id="firstname" name="firstName" maxlength="80" size="50"><br><br>
                       <label for="lastname">Last name:</label><br>
-                      <input type="text" id="lastname" name="lastname"  maxlength="80" size="50"><br><br>
+                      <input type="text" id="lastname" name="lastName"  maxlength="80" size="50"><br><br>
                       
   
                       <label for="gender">Gender:</label><br>
@@ -61,8 +61,7 @@
                       <label for="password">Password:</label><br>
                       <input type="password" id="password" name="password"><br><br>
 
-                      <label for="myfile">Upload photo</label><br>
-                      <input type="file" id="myfile" name="filetoupload"><br><br><br>
+                      
   
                      
                       <input type="submit" value="Register" name="Register">

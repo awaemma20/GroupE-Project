@@ -13,7 +13,7 @@
     <div class="heading">
         <p>
         
-        <h1>WELCOME123 TO RGUISC </h1>
+        <h1>WELCOME TO RGUISC </h1>
         </p>
     </div>
     <main>
@@ -67,25 +67,25 @@
 
         <div class="row">
             <div class="column1"></div>
-            <img src="image/Awa passport 2.jpg" width="100" height="100">
-            <figcaption><h5>Awa Emmanuel, Software Developer</h5></figcaption>
+            <img src="images/member4.jpg" width="100" height="100">
+            <figcaption><h5>Adizue Onwuanuokwu, Software Developer</h5></figcaption>
             </div>
     
             <div class="column">
-            <img src="image/IMG-20200705-WA0000.jpg" width="100" height="100">
+            <img src="images/member.jpg" width="100" height="100">
             <figurecaption><h5>Anthony Nwachukwu, Software Developer</h5></figurecaption>
             </div>
             
             <div class="column">
-            <img src="https://i.pinimg.com/originals/48/35/b5/4835b5f9c52fd733eb26fb2c2b47bdc7.jpg" img width="100" height="100">
-            <figcaption><h5>Adizue Onwuanuokwu, Developer</h5></figcaption>
+            <img src="images/member6.jpg" img width="100" height="100">
+            <figcaption><h5>Awa Emmanuel, Software Developer</h5></figcaption>
             </div>
             
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR04cuvizkdVjB6XosU8phJOLBsskOoITWN_A&usqp=CAU" img width="100" height="100">
+            <img src="images/member3.jpg" img width="100" height="100">
             <figcaption><h5>Nimasha Srimal, Software Developer</h5></figcaption>        
             </figure>
             <div class="column">
-            <img src="https://i.pinimg.com/originals/48/35/b5/4835b5f9c52fd733eb26fb2c2b47bdc7.jpg" img width="100" height="100">
+            <img src="images/member2.jpg" img width="100" height="100">
             <figcaption><h5>Ugochukwu Franklin, Software Developer</h5></figcaption>
             </div>
         </div>
