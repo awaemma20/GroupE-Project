@@ -21,7 +21,7 @@
       
           <button type="submit" class="btn">Login</button>
           
-         <button type="Signup" class="btn">Signup</button>
+          <button type="Signup" class="btn"><a href="registration.php">Signup</a></button>
          <a href="forgot password.html">forgot Password</a>
         </form>
       </div>

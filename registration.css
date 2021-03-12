@@ -1,10 +1,56 @@
+/* NAVIGATION BAR CSS*/
+nav>ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+nav>ul>li{
+  float:left;
+}
+nav>ul>li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 10px 160px;
+  text-decoration: none;
+  font-size: large;
+}
+li a :hover{
+  color: #363636;
+
+}
+
+
 h1 {
   color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-body {
-  background-color: rgb(201, 116, 201);
-  padding-top: 10px;
-  padding-right: 50px;
-  padding-bottom: 20px;
-  padding-left: 600px;
+.panel-body{
+  text-align: center;
+  
+}
+
+.container {
+  position: relative;
+  max-width: 1500px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+  opacity: 0.7;
+}
+
+.container .content {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  max-width: 1700px; /* Full width */
+  width: 1280px;
+  height: 500px;
+
+  padding-top: 0px; /* Some padding */
+  padding-left: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+ 
 }
