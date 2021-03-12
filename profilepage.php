@@ -27,8 +27,6 @@
                 <nav>
                     <ul>
                         <li><a href="homepage.php">Home</a></li>
-                        <li><a href="changepassword.php"><h5>Change password</h5></a></li>
-                        <li><a href="changephoto.php"><h5>Change photo</h5></a></li>
                         <li><a href="login.php"><h5>logout</h5></a></li>
                     </ul>
                 </nav>       
