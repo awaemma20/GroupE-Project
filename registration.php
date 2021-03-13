@@ -15,7 +15,7 @@
           <ul>
               <li><a href="profilepage.php">Profile</a></li>
               <li><a href="Join Room.html">Join Room</a></li>
-              <li><a href="Online Learning Tool Tutorial.php">Online Learning Tool Tutorial</a></li>
+              <li><a href="OnlineTutorial.php">Online Learning Tool Tutorial</a></li>
             </ul> 
       </nav>
       <!--NAIGATION END-->
@@ -28,7 +28,7 @@
           </div>
 
           <div class="panel-body">
-            <form action="register.php" method="post">
+            <form action="register.php" method="post" enctype="multipart/form-data">
 
               <img src="images/rguthing.jpg" alt="jobs" style="width:100%; height:500px;">
               <div class="content"><br>
@@ -61,6 +61,10 @@
                       <label for="password">Password:</label><br>
                       <input type="password" id="password" name="password"><br><br>
 
+                      <label for="myfile">Upload Picture</label><br>
+                      <input type="file" id="myfile" name="filetoupload"><br><br>
+
+                      
                       
   
                      

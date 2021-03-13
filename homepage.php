@@ -19,7 +19,7 @@
             <ul>
                 <li><a href="profilepage.php">Profile</a></li>
                 <li><a href="Join Room.html">Join Room</a></li>
-                <li><a href="Online Learning Tool Tutorial.php">Online Learning Tool Tutorial</a></li>
+                <li><a href="OnlineTutorial.php">Online Learning Tool Tutorial</a></li>
                 
             </ul> 
         </nav>
