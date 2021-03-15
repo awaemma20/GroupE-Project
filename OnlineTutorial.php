@@ -28,20 +28,20 @@
         <main class="main">
             <div id="firstDiv">
                 <div>
-                    <embed src= "images/video5.mp4" autostart="false"  controls width="100%" height="80%"></video>
-                    <h7 class="divH7">HOW TO USE BLACKBOARD ONLINE</h7>
+                    <embed src= "images/video5.mp4" controls="false"  width="100%" height="80%"></video>
+                    <h7 class="divH7">HOW TO USE BLACKBOARD COLLOBORATE</h7>
                 </div>
             </div>
             <div id="secondDiv">
                 <div>
-                    <embed src= "images/video4.mp4" autostart="false"  controls width="100%" height="80%"></video>
+                    <embed src= "images/video4.mp4"    width="100%" height="80%"></video>
                     <h7 class="divH7">HOW TO SET UP AND USE YOUR OUTLOOK ACCOUNT</h7>
                 </div>
             </div>
 
             <div id="thirdDiv">
                 <div>
-                    <video src="./assests/videos/How to use myRGU & Attendr app.mp4" controls width="100%" height="80%"></video>
+                    <embed src="images/video9.mp4"   width="100%" height="80%"></video>
                     <h7 class="divH7">HOW TO USE MYRGU AND ATTENDR APP</h7>
                 </div>
             </div>

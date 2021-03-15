@@ -44,7 +44,7 @@
                 <div class="grid-30">
                     <p>
                         <h1>NEWS</h1>
-                        <h3>Monday, 15 Feburary 2021</h3>
+                        <h3>Friday, 12 March 2021</h3>
                         <h4>RGU signs pledge to support estranged students</h4>
                         <p>
                         As part of its ongoing commitment to widening access to Higher Education, 
@@ -59,16 +59,14 @@
                         studies. <a href="Read more.html">Read More</a>
                         </p>
                     <p>
-                        <h3>Monday, 14 Feburary 2021</h3>
-                        <h4>Leading Cardiology expert appointed in RGU </h4>
+                        <h3>Monday, 15 March 2021</h3>
+                        <h4>Covid Relief Fund </h4>
                         <p>
-                            In her new role, Prof. Dawkes will lead the School’s 
-                            partnerships and collaboration with the health and social 
-                            care sector and its provision of high-quality health education and research.
-
-                            Prof. Dawkes joins RGU from Edinburgh Napier University where she was a Professor 
-                            in Cardiovascular Health at the School of Health and Social Care and part of the School's 
-                            Senior Leadership team. <a href="Read more.html">Read More</a>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
+                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+                        ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
+                        culpa qui officia deserunt mollit anim id est laborum.". <a href="Read more.html">Read More</a>
                         </p>
 
 
@@ -107,9 +105,9 @@
                             
                             <div class="grid-container3">
                             <div class="grid-30">
-                                <iframe width="470" height="400" src="https://www.youtube.com/embed/Ps11CDkNS44" 
-                                frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-                                 picture-in-picture" allowfullscreen></iframe><br>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/JFbDkX6Mu68" 
+                                frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                allowfullscreen></iframe><br>
                                 <div class="trip">
                                 <p>
                                     <h3>Planning your trip?</h3>
